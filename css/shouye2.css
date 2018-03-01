@@ -1,0 +1,261 @@
+@font-face {
+  font-family: 'iconfont';  /* project id 563113 */
+  src: url('https://at.alicdn.com/t/font_563113_xoqwz1fbv12lnmi.eot');
+  src: url('https://at.alicdn.com/t/font_563113_xoqwz1fbv12lnmi.eot?#iefix') format('embedded-opentype'),
+  url('https://at.alicdn.com/t/font_563113_xoqwz1fbv12lnmi.woff') format('woff'),
+  url('https://at.alicdn.com/t/font_563113_xoqwz1fbv12lnmi.ttf') format('truetype'),
+  url('https://at.alicdn.com/t/font_563113_xoqwz1fbv12lnmi.svg#iconfont') format('svg');
+}
+body{
+	font-size: 0.12rem;
+	background-color: #e1e1e1;
+}
+#lunbo{
+	width: 100%;
+	height: 5.75rem;
+	background-color: pink;
+	position: relative;
+}
+#banner{
+	width: 100%;
+	height: 4.63rem;
+	background-color: #fff;
+}
+.banner_top{
+	width: 100%;
+	height: 2.32rem;
+	border-bottom: 0.02rem solid #efefef;
+	overflow: hidden;
+}
+
+.banner_top_item{
+	width: 20%;
+	height: 2.32rem;
+	float: left;
+}
+.banner_top_img{
+	width: 0.80rem;
+	height: 1.22rem;
+	margin-top: 0.3rem;
+	margin-left: 0.70rem;
+}
+.banner_top_wenzi{
+	font-size: 0.31rem;
+	text-align: center;
+	line-height: 0.31rem;
+	margin-top: 0.3rem;
+}
+.banner_bottom{
+	width: 100%;
+	height: 2.30rem;
+	
+}
+.banner_bottom_item{
+	width: 2.67rem;
+	height: 2.30rem;
+	float: left;
+}
+.banner_bottom_img{
+	width: 1.35rem;
+	height: 1.31rem;
+	margin-left: 0.6rem;
+	margin-top: 0.3rem;
+
+}
+.banner_bottom_wenzi{
+	font-size: 0.3rem;
+	text-align: center;
+	margin-top: 0.08rem;
+}
+.banner_bottom_line{
+	width: 0.03rem;
+	height: 1.90rem;
+	background-color: #ededed;
+	float: left;
+	margin-top: 0.2rem;
+}
+#renhua{
+	width: 100%;
+	margin-top: 0.23rem;
+	background-color: #fff;
+}
+.renhua_top{
+	width: 100%;
+	height: 1.40rem;
+	overflow: hidden;
+}
+.renhua_top_line{
+	width: 0.86rem;
+	height: 0.02rem;
+	background-color: #bebebe;
+	margin-left: 3.02rem;
+	margin-top: 0.66rem;
+	float: left;
+
+}
+.renhua_top_wenzi{
+	font-size: 0.58rem;
+	float: left;
+	line-height: 1.40rem;
+	margin-left: 0.33rem;
+}
+.renhua_top_line2{
+	float: right;
+	margin-left: 0;
+	margin-right: 3.02rem;
+}
+.renhua_top_line3{
+	margin-right: 2.6rem;
+}
+.renhua_top_line4{
+	height: 0.03rem;
+}
+.renhua_second{
+	width: 100%;
+	margin-top: 0.08rem;
+}
+.renhua_item{
+	width: 5.12rem;
+	height: 7.06rem;
+	background-color: #fff;
+	border: 0.02rem solid #d0d0d0;
+	margin-left: 0.14rem;
+	margin-bottom: 0.28rem;
+	float: left;
+}
+.renhua_item2{
+	margin-left: 0.28rem;
+}
+.renhua_img{
+	width: 4.84rem;
+	height: 5.31rem;
+	margin-left: 0.12rem;
+	margin-top: 0.12rem;
+}
+.renhua_w1{
+	font-size: 0.31rem;
+	color: #363636;
+	margin-left: 0.12rem;
+	margin-top: 0.18rem;
+	line-height: 0.31rem;
+}
+.renhua_w2{
+	font-size: 0.25rem;
+	color: #a1a1a1;
+	margin-left: 0.12rem;
+	margin-top: 0.16rem;
+	line-height: 0.25rem;
+}
+.renhua_w3{
+	font-size: 0.26rem;
+	color: #363636;
+	margin-left: 0.12rem;
+	margin-top: 0.23rem;
+	line-height: 0.23rem;
+}
+.renhua_bottom{
+	width: 100%;
+	height: 1.28rem;
+	overflow: hidden;
+}
+.renhua_bottom_more{
+	width: 4.45rem;
+	height: 0.85rem;
+	border: 0.02rem solid #d1d1d1;
+	margin-left: 3.12rem;
+	margin-top: 0.14rem;
+	text-align: center;
+	line-height: 0.85rem;
+}
+.renhua_bottom_more span{
+	font-size: 0.37rem;
+	line-height: 0.37rem;
+	color: #a0a0a0;
+	
+}
+.renhua_bottom_more .renhua_bottom_w2{
+	color: #535353;
+}
+.dibu{
+	width: 100%;
+	height: 1.30rem;
+	background-color: #f8f8f8;
+	overflow: hidden;
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	
+}
+.content{
+	position: absolute;
+	top: 0;
+	bottom: 1.3rem;
+	overflow-y: scroll;
+}
+.didu_item{
+	width: 25%;
+	height: 100%;
+	float: left;
+	color: #4f4f4f;
+}
+.dibu_item_w1{
+	
+	font-family: 'iconfont';
+	font-size: 0.78rem;
+	text-align: center;
+	line-height: 0.78rem;
+	margin-top: 0.12rem;
+}
+.dibu_item_w2{
+	font-size: 0.3rem;
+	line-height: 0.3rem;
+	text-align: center;
+
+}
+.didu_item1{
+	color: #ed8a51;
+}
+.lunbo_seacher{
+	width: 100%;
+	height: 1.26rem;
+	background-color: rgba(255, 255, 255, .5);
+	position: fixed;
+	z-index: 999;
+	left: 0;
+	top: 0;
+}
+.lunbo_seacher_logo{
+	width: 1.94rem;
+	height: 0.5rem;
+	margin-top: 0.38rem;	
+	margin-left: 0.50rem;
+	float: left;
+}
+.lunbo_logo{
+	width: 1rem;
+	height: 0.5rem;
+	margin-left: 0.4rem;
+}
+.search{
+	width: 5.67rem;
+	height: 0.7rem;
+	background-color: #f5f5f5;
+	border: 0;
+	border-radius: 0.2rem;
+	padding-left: 0.2rem;
+	outline: none;
+	float: left;
+	margin-top: 0.28rem;
+	margin-left: 0.52rem;
+	font-size: 0.32rem;
+	color: #838383;
+
+}
+.btn{
+	font-size: 0.42rem;
+	color: #76a9ff;
+	float: left;
+	margin-top: 0.46rem;
+	margin-left: 0.75rem;
+	line-height: 0.42rem;
+}
